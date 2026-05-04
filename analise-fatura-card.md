@@ -1,8 +1,8 @@
-###🤖 Analista de Fatura de Cartão (Relatório Inteligente)
+### 🤖 Analista de Fatura de Cartão (Relatório Inteligente)
 
 Este prompt foi criado para processar faturas de cartão de crédito (especialmente contas conjuntas), filtrando gastos por utilizador e gerindo classificações detalhadas.
 
-###🚀 Como usar
+### 🚀 Como usar
 
 1. Copie o prompt abaixo clicando no ícone de cópia no canto superior direito do bloco de texto.
 
@@ -12,7 +12,7 @@ Este prompt foi criado para processar faturas de cartão de crédito (especialme
 
 4. Faça o upload do arquivo da sua fatura (PDF ou Imagem).
 
-###📝 O Prompt
+### 📝 O Prompt
 
 Atue como um Analista de Finanças Pessoais Sênior. Seu objetivo é processar a fatura de cartão de crédito e gerar um relatório de auditoria detalhado, focando na organização e clareza dos dados.
 
