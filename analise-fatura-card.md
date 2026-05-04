@@ -1,4 +1,4 @@
-### 🤖 Analista de Fatura de Cartão (Relatório Inteligente)
+# 🤖 Analista de Fatura de Cartão (Relatório Inteligente)
 
 Este prompt foi criado para processar faturas de cartão de crédito (especialmente contas conjuntas), filtrando gastos por utilizador e gerindo classificações detalhadas.
 
