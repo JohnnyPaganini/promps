@@ -1,17 +1,18 @@
-🤖 Analista de Fatura de Cartão (Relatório Inteligente)
+###🤖 Analista de Fatura de Cartão (Relatório Inteligente)
 
 Este prompt foi criado para processar faturas de cartão de crédito (especialmente contas conjuntas), filtrando gastos por utilizador e gerindo classificações detalhadas.
 
-🚀 Como usar
+###🚀 Como usar
 
-Copie o prompt abaixo clicando no ícone de cópia no canto superior direito do bloco de texto.
+1. Copie o prompt abaixo clicando no ícone de cópia no canto superior direito do bloco de texto.
 
-Cole no Claude.ai ou ChatGPT.
+2. Cole no Claude.ai ou ChatGPT.
 
-Preencha os campos [ ] com as suas informações.
+3. Preencha os campos [ ] com as suas informações.
 
-Faça o upload do arquivo da sua fatura (PDF ou Imagem).
+4. Faça o upload do arquivo da sua fatura (PDF ou Imagem).
 
+###📝 O Prompt
 
 Atue como um Analista de Finanças Pessoais Sênior. Seu objetivo é processar a fatura de cartão de crédito e gerar um relatório de auditoria detalhado, focando na organização e clareza dos dados.
 
