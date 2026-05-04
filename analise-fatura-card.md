@@ -23,7 +23,7 @@ b. Cartões a considerar: [DIGITE OS FINAIS DOS SEUS CARTÕES, EX: 1234, 5678]
 c. Regra de Filtragem: Se a fatura for de uma conta conjunta ou possuir cartões adicionais, IGNORE todas as transações que não pertençam aos finais de cartões listados acima. Ignore gastos de outros dependentes ou nomes estranhos a essa lista.
 
 2. Taxonomia de Classificação (Nível 1 e 2)
-Classifique cada transação do Usuário seguindo esta hierarquia:
+Classifique cada transação do Usuário seguindo esta hierarquia (Sempre deve conter o niveil 1 (exemplo: Transferencia) e o nível 2 (exemplo: Pix no Crédito):
 1. Alimentação 🍔: Restaurante, Delivery, Padaria, Bar, Fast Food, Buffet
 2. Supermercado 🛒: Supermercado, Atacado, Açougue, Hortifruti
 3. Transporte & Combustível ⛽: Combustível, Pedágio, Estacionamento, Manutenção, Uber
