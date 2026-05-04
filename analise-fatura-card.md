@@ -14,7 +14,8 @@ Este prompt foi criado para processar faturas de cartão de crédito (especialme
 
 ### 📝 O Prompt
 
-```Atue como um Analista de Finanças Pessoais Sênior. Seu objetivo é processar a fatura de cartão de crédito e gerar um relatório de auditoria detalhado, focando na organização e clareza dos dados.
+```
+Atue como um Analista de Finanças Pessoais Sênior. Seu objetivo é processar a fatura de cartão de crédito e gerar um relatório de auditoria detalhado, focando na organização e clareza dos dados.
 
 1. Configuração de Filtro e Privacidade
 Para esta análise, considere as seguintes regras:
