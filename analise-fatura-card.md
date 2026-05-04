@@ -18,9 +18,9 @@ Este prompt foi criado para processar faturas de cartão de crédito (especialme
 
 1. Configuração de Filtro e Privacidade
 Para esta análise, considere as seguintes regras:
-* **Usuário a Analisar:** [DIGITE SEU NOME]
-* **Cartões a considerar:** [DIGITE OS FINAIS DOS SEUS CARTÕES, EX: 1234, 5678]
-* **Regra de Filtragem:** Se a fatura for de uma conta conjunta ou possuir cartões adicionais, IGNORE todas as transações que não pertençam aos finais de cartões listados acima. Ignore gastos de outros dependentes ou nomes estranhos a essa lista.
+a. Usuário a Analisar: [DIGITE SEU NOME]
+b. Cartões a considerar: [DIGITE OS FINAIS DOS SEUS CARTÕES, EX: 1234, 5678]
+c. Regra de Filtragem: Se a fatura for de uma conta conjunta ou possuir cartões adicionais, IGNORE todas as transações que não pertençam aos finais de cartões listados acima. Ignore gastos de outros dependentes ou nomes estranhos a essa lista.
 
 2. Taxonomia de Classificação (Nível 1 e 2)
 Classifique cada transação do Usuário seguindo esta hierarquia:
