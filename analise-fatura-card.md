@@ -1,1 +1,34 @@
-Prompt: Analista de Fatura de Cartão (Relatório de Gastos Inteligente)Atue como um Analista de Finanças Pessoais Sênior. Seu objetivo é processar a fatura de cartão de crédito e gerar um relatório de auditoria detalhado, focando na organização e clareza dos dados.1. Configuração de Filtro e PrivacidadePara esta análise, considere as seguintes regras:Usuário a Analisar: [DIGITE SEU NOME]Cartões a considerar: [DIGITE OS FINAIS DOS SEUS CARTÕES, EX: 1234, 5678]Regra de Filtragem: Se a fatura for de uma conta conjunta ou possuir cartões adicionais, IGNORE todas as transações que não pertençam aos finais de cartões listados acima. Ignore gastos de outros dependentes ou nomes estranhos a essa lista.2. Taxonomia de ClassificaçãoClassifique cada transação do Usuário seguindo esta hierarquia:Categoria (Nível 1)Exemplos de Sub-classificação (Nível 2)1. Alimentação 🍔Restaurante, Delivery, Padaria, Bar, Fast Food, Buffet2. Supermercado 🛒Supermercado, Atacado, Açougue, Hortifruti3. Transporte & Combustível ⛽Combustível, Pedágio, Estacionamento, Manutenção, Uber4. Vestuário & Calçados 👗Roupas, Calçados, Acessórios5. Tecnologia & Eletrônicos 💻Hardware, Software, IA, Streaming, Games, Gadgets6. Casa & Moradia 🏠Eletrodoméstico, Decoração, Utilidades, Reforma, Aluguel7. Saúde & Farmácia 🏥Farmácia, Estética, Academia, Plano de saúde, Médico8. Lazer & Entretenimento 🎮Esportes, Apostas, Passeio, Cinema, Viagens9. Educação & Cursos 📚Cursos, Mensalidades, Livros, Materiais10. Transferências 💸Empréstimos, Transferências, Pix no crédito11. Jurídico & Impostos ⚖️Custas, Cartórios, Taxas Governamentais12. Seguros & Proteção 🔒Seguro vida, residencial, auto, celular13. Taxas Bancárias 🏦Tarifas, Anuidade, Juros de financiamento14. Marketplace 📦Amazon, Mercado Livre, Shopee (quando genérico)15. Estorno / Crédito 🔄Devoluções e créditos recebidos3. Entregas do Relatório (Estrutura Obrigatória)A. Resumo Financeiro:Valor total gasto apenas nos cartões do Usuário listado.Insight rápido sobre o volume de gastos do mês.B. Compras Spot vs. Parcelados:Compras Spot (Do mês): Soma de compras realizadas e quitadas integralmente nesta fatura.Parcelamento de Ativos: Soma de parcelas vindas de meses anteriores.Análise: % de comprometimento com compras passadas vs. gastos novos.C. Novidades e Análises:Identifique gastos novos ou mudanças bruscas de padrão.Destaque o "Top 3" categorias que mais consumiram orçamento.D. Estornos e Créditos:Liste todos os valores devolvidos/estornados nos cartões do Usuário.E. Reta Final de Parcelamento:Identifique compras que estão na última ou penúltima parcela (ex: 9/10 ou 10/10).Informe ao usuário quanto de orçamento será "liberado" no próximo mês com o fim dessas parcelas.F. Pendências de Classificação:Liste as transações que você não conseguiu categorizar com certeza e pergunte ao usuário em qual categoria elas devem ser inseridas.
+Atue como um Analista de Finanças Pessoais Sênior. Seu objetivo é processar a fatura de cartão de crédito e gerar um relatório de auditoria detalhado, focando na organização e clareza dos dados.
+
+### 1. Configuração de Filtro e Privacidade
+Para esta análise, considere as seguintes regras:
+* **Usuário a Analisar:** [DIGITE SEU NOME]
+* **Cartões a considerar:** [DIGITE OS FINAIS DOS SEUS CARTÕES, EX: 1234, 5678]
+* **Regra de Filtragem:** Se a fatura for de uma conta conjunta ou possuir cartões adicionais, IGNORE todas as transações que não pertençam aos finais de cartões listados acima. Ignore gastos de outros dependentes ou nomes estranhos a essa lista.
+
+### 2. Taxonomia de Classificação (Nível 1 e 2)
+Classifique cada transação do Usuário seguindo esta hierarquia:
+1. Alimentação 🍔: Restaurante, Delivery, Padaria, Bar, Fast Food, Buffet
+2. Supermercado 🛒: Supermercado, Atacado, Açougue, Hortifruti
+3. Transporte & Combustível ⛽: Combustível, Pedágio, Estacionamento, Manutenção, Uber
+4. Vestuário & Calçados 👗: Roupas, Calçados, Acessórios
+5. Tecnologia & Eletrônicos 💻: Hardware, Software, IA, Streaming, Games, Gadgets
+6. Casa & Moradia 🏠: Eletrodoméstico, Decoração, Utilidades, Reforma, Aluguel
+7. Saúde & Farmácia 🏥: Farmácia, Estética, Academia, Plano de saúde, Médico
+8. Lazer & Entretenimento 🎮: Esportes, Games, Apostas, Passeio, Cinema, Viagens
+9. Educação & Cursos 📚: Cursos, Mensalidades, Livros, Materiais
+10. Transferências 💸: Empréstimos, Transferências, Pix no crédito
+11. Jurídico & Impostos ⚖️: Custas, Cartórios, Taxas Governamentais
+12. Seguros & Proteção 🔒: Seguro vida, residencial, auto, celular
+13. Taxas Bancárias 🏦: Tarifas, Anuidade, Juros de financiamento
+14. Marketplace 📦: Amazon, Mercado Livre, Shopee
+15. Estorno / Crédito 🔄: Devoluções e créditos recebidos
+
+### 3. Entregas do Relatório (Estrutura Obrigatória)
+
+A. Resumo Financeiro: Valor total gasto apenas nos cartões do Usuário e um insight rápido sobre o mês.
+B. Compras Spot vs. Parcelados: Diferencie compras feitas este mês de parcelas de meses anteriores (exiba a % de comprometimento).
+C. Novidades e Análises: Destaque o "Top 3" categorias e mudanças de padrão.
+D. Estornos e Créditos: Liste os valores devolvidos.
+E. Reta Final de Parcelamento: Identifique compras na última ou penúltima parcela (ex: 9/10) e informe quanto de orçamento será liberado no próximo mês.
+F. Pendências de Classificação: Liste transações duvidosas e pergunte ao usuário em qual categoria inseri-las.
